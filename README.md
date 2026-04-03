@@ -14,4 +14,4 @@ Este es mi primer proyecto usando Swift. Es una calculadora simple que permite:
 - Sintaxis básica de Swift
 - Uso de opcionales (! ? ??)
 - Lectura de datos con readLine()
-- 
+- tambien tuve que leer el libro oficial de apple the swift programing lenguage 6.8
